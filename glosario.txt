@@ -1,0 +1,6 @@
+# practica1_git
+Demostración de uso de github
+hay varias palabras comunes
+
+push significa enviar cambios al repo remoto
+pull significa actualziar mi repositorio legal
